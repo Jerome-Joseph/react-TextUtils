@@ -55,7 +55,6 @@ function App() {
         </Switch>
       </div>
       </Router>
-      {/* changes */}
     </>
   );
 }
